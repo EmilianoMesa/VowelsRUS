@@ -2,7 +2,7 @@ import java.io.*;
 
 
 public class stringCode {
-
+						//VowelsRUs by Emilaino Mesa
 
 	public static void main(String[] args) throws IOException {
 		/**Codigo por Emiliano Mesa**/

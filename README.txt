@@ -1,4 +1,5 @@
 # VowelsRUS
+This program has no more than 80 lines of code :D
 This is the VowelRUs program done in a pretty diffrent way I dont use ARRAYS, just Chars
 Author: Emiliano Mesa
 The Columbus School
